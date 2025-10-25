@@ -81,8 +81,8 @@ tkinter                # GUI framework (included with Python)
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/mertcaliskan34/number-guessing-game.git
-   cd number-guessing-game
+   git clone https://github.com/mertcaliskan34/Number-Guessing-Game.git
+   cd Number-Guessing-Game
    ```
 
 2. **Install Dependencies**
@@ -128,7 +128,7 @@ tkinter                # GUI framework (included with Python)
 ## Project Structure
 
 ```
-number-guessing-game/
+Number-Guessing-Game/
 ├── Guessing Game.py              # Main application
 ├── README.md                     # Project documentation
 ├── LICENSE                       # License information
