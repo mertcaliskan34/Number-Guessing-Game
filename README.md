@@ -59,26 +59,26 @@ This project represents a comprehensive implementation of a number guessing game
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│                    Application Layer                        │
+│                     Application Layer                       │
 ├─────────────────────────────────────────────────────────────┤
-│  PPGGame Class (Main Controller)                          │
-│  ├── UI Management                                        │
-│  ├── Game State Management                                │
-│  ├── Audio System Integration                             │
-│  └── Theme Engine                                         │
+│  PPGGame Class (Main Controller)                            │
+│  ├── UI Management                                          │
+│  ├── Game State Management                                  │
+│  ├── Audio System Integration                               │
+│  └── Theme Engine                                           │
 ├─────────────────────────────────────────────────────────────┤
-│                    Service Layer                           │
+│                       Service Layer                         │
 ├─────────────────────────────────────────────────────────────┤
-│  ├── Sound Management Service                             │
-│  ├── Game Logic Service                                   │
-│  ├── AI Decision Engine                                    │
-│  └── Input Validation Service                             │
+│  ├── Sound Management Service                               │
+│  ├── Game Logic Service                                     │
+│  ├── AI Decision Engine                                     │
+│  └── Input Validation Service                               │
 ├─────────────────────────────────────────────────────────────┤
 │                    Infrastructure Layer                     │
 ├─────────────────────────────────────────────────────────────┤
-│  ├── Tkinter GUI Framework                                │
-│  ├── Pygame Audio Engine                                  │
-│  └── File System Integration                               │
+│  ├── Tkinter GUI Framework                                  │
+│  ├── Pygame Audio Engine                                    │
+│  └── File System Integration                                │
 └─────────────────────────────────────────────────────────────┘
 ```
 
